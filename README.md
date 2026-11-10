@@ -1,2 +1,2 @@
-# -QA-Engineering-Portfolio
+# QA-Engineering-Portfolio
 Professional Software QA Testing Portfolio
