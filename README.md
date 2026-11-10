@@ -2,143 +2,80 @@
 Professional Software QA Testing Portfolio
 Abdulfatai Yakubu | QA Engineering Portfolio
 
-Welcome to my Software Quality Assurance (QA) portfolio. This repository documents my practical learning, testing exercises, and projects as I develop my skills in software testing.
+Welcome to my Software Quality Assurance portfolio. This repository showcases my practical testing projects, technical skills, and continuous development as a QA professional.
 
 # About Me
 
-I am an aspiring QA Engineer based in Nigeria, building practical skills in manual software testing and API testing. I enjoy exploring how applications work, identifying defects, and documenting test results clearly.
+I am an aspiring QA Engineer based in Nigeria, developing practical skills in manual software testing and API testing. I enjoy identifying software defects, validating application functionality, and documenting test results.
 
-# My current learning focus includes:
+# Technical Skills
 
-- Manual testing and test case design
-- Functional, smoke, regression, and exploratory testing
-- API testing with Postman
-- Defect reporting and documentation
-- SQL fundamentals
-- Beginner-level test automation
+- Manual Testing: Functional, Regression, Smoke, Sanity and Exploratory Testing
+- Test Documentation: Test scenarios, test cases and bug reports
+- API Testing: Postman, HTTP methods and response validation
+- Defect Management: Bug reporting, severity and priority
+- Database: SQL fundamentals
+- Tools: GitHub, Microsoft Excel and Google Sheets
+- Automation: Currently learning test automation fundamentals
 
 # Tools & Technologies
 
-Area| Tools / Skills
-Manual testing| Test scenarios, test cases, exploratory testing
-API testing| Postman, HTTP methods, response validation
-Defect management| Bug reports, severity and priority
-Documentation| GitHub, Excel, Google Sheets
-Database| SQL fundamentals
-Automation| Currently learning the fundamentals
+Category| Tools
+API Testing| Postman
+Documentation| GitHub, Excel
+Test Management| Jira, Azure DevOps (learning/practice)
+Database| SQL
+Automation| Currently learning
 
 # Portfolio Projects
 
-1. Banking App API Testing — Practice Project
+1. Banking Application API Testing
 
-A beginner API testing exercise using PosAbdulfatai Yakubu | QA Engineering Portfolio
+A practical API testing exercise using Postman and a mock API.
 
-Welcome to my Software Quality Assurance (QA) portfolio. This repository documents my practical learning, testing exercises, and projects as I develop my skills in software testing.
+- "View Project on GitHub" (https://github.com/easylife4ft/Banking-App-API-QA)
+- Tested API requests and responses.
+- Practised negative testing and response validation.
+- Documented observations and testing results.
 
-About Me
+Note: This is a learning project using a mock API, not a production banking system.
 
-I am an aspiring QA Engineer based in Nigeria, building practical skills in manual software testing and API testing. I enjoy exploring how applications work, identifying defects, and documenting test results clearly.
+2. E-commerce Website Manual Testing
 
-My current learning focus includes:
+Status: Coming Soon
 
-Manual testing and test case design
+Planned testing project covering registration, login, product search, shopping cart and checkout.
 
-Functional, smoke, regression, and exploratory testing
+3. SQL Database Testing
 
-API testing with Postman
+Status: Coming Soon
 
-Defect reporting and documentation
+Practical exercises involving SQL queries and database validation.
 
-SQL fundamentals
+4. Test Automation
 
-Beginner-level test automation
+Status: Learning
 
-Tools & Technologies
+Beginner automation exercises as I develop my automation skills.
 
-￼
+# My Testing Approach
 
-# Portfolio Projects
+1. Understand requirements and expected behaviour.
+2. Identify positive and negative test scenarios.
+3. Design clear test cases.
+4. Execute tests and record results.
+5. Report defects with reproducible steps.
+6. Retest and document outcomes.
 
-1. Banking App API Testing — Practice Project
+# Professional Development
 
-A beginner API testing exercise using Postman.
-
-# View Banking API Project
-
-Focus: API requests, response checks, negative test scenarios, and bug-report documentation.
-
-Note: This is a learning exercise built around a mock API. Findings are practice observations and should not be interpreted as confirmed defects in a production banking system.
-
-2. E-commerce Website Manual Testing — Coming Soon
-
-Planned project covering test scenarios, test cases, execution results, and documented defects for common shopping workflows.
-
-3. SQL Database Testing — Coming Soon
-
-Planned exercises covering basic SQL queries and data validation.
-
-4. Beginner Test Automation — Coming Soon
-
-Introductory automation exercises as I build my automation skills.
-
-# How I Approach Testing
-
-Understand the feature and its expected behaviour.
-
-Identify positive, negative, boundary, and edge cases.
-
-Prepare clear and repeatable test cases.
-
-Execute tests and record actual results.
-
-Report defects with reproduction steps and supporting evidence.
-
-Retest fixes and document the outcome.
-
-# Learning & Development
-
-I am continuously improving my QA skills through hands-on exercises and practical projects. This portfolio will be updated as I complete and review each project.
+I am committed to continuous learning and improving my software testing skills through practical exercises and real-world testing scenarios.
 
 # Contact
 
-GitHub: https://github.com/easylife4ft
-
-Email: abdulfataiyakubu977@gmail.com
-
-Thank you for visiting my portfolio.tman.
-
-- "View Banking API Project" (https://github.com/easylife4ft/Banking-App-API-QA)
-- Focus: API requests, response checks, negative test scenarios, and bug-report documentation.
-- Note: This is a learning exercise built around a mock API. Findings are practice observations and should not be interpreted as confirmed defects in a production banking system.
-
-2. E-commerce Website Manual Testing — Coming Soon
-
-Planned project covering test scenarios, test cases, execution results, and documented defects for common shopping workflows.
-
-3. SQL Database Testing — Coming Soon
-
-Planned exercises covering basic SQL queries and data validation.
-
-4. Beginner Test Automation — Coming Soon
-
-Introductory automation exercises as I build my automation skills.
-
-How I Approach Testing
-
-1. Understand the feature and its expected behaviour.
-2. Identify positive, negative, boundary, and edge cases.
-3. Prepare clear and repeatable test cases.
-4. Execute tests and record actual results.
-5. Report defects with reproduction steps and supporting evidence.
-6. Retest fixes and document the outcome.
-
-Learning & Development
-
-I am continuously improving my QA skills through hands-on exercises and practical projects. This portfolio will be updated as I complete and review each project.
-
-Contact
-
-- GitHub: https://github.com/easylife4ft
+- GitHub: "easylife4ft" (https://github.com/easylife4ft)
 - Email: abdulfataiyakubu977@gmail.com
+- +2349039650719
+- Location: Nigeria
 
-Thank you for visiting my portfolio.
+Thank you for visiting my QA Engineering Portfolio.
