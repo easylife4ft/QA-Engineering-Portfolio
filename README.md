@@ -1,6 +1,6 @@
 # QA-Engineering-Portfolio
-Professional Software QA Testing Portfolio
-Abdulfatai Yakubu | QA Engineering Portfolio
+## Professional Software QA Testing Portfolio
+# Abdulfatai Yakubu | QA Engineering Portfolio
 
 Welcome to my Software Quality Assurance portfolio. This repository showcases my practical testing projects, technical skills, and continuous development as a QA professional.
 
@@ -8,7 +8,7 @@ Welcome to my Software Quality Assurance portfolio. This repository showcases my
 
 I am an aspiring QA Engineer based in Nigeria, developing practical skills in manual software testing and API testing. I enjoy identifying software defects, validating application functionality, and documenting test results.
 
-# Technical Skills
+## Technical Skills
 
 - Manual Testing: Functional, Regression, Smoke, Sanity and Exploratory Testing
 - Test Documentation: Test scenarios, test cases and bug reports
@@ -20,12 +20,13 @@ I am an aspiring QA Engineer based in Nigeria, developing practical skills in ma
 
 # Tools & Technologies
 
-Category| Tools
-API Testing| Postman
-Documentation| GitHub, Excel
-Test Management| Jira, Azure DevOps (learning/practice)
-Database| SQL
-Automation| Currently learning
+| Category | Tools |
+|---|---|
+| API Testing | Postman |
+| Documentation | GitHub, Excel |
+| Test Management | Jira, Azure DevOps (learning/practice) |
+| Database | SQL |
+| Automation | Currently learning |
 
 # Portfolio Projects
 
