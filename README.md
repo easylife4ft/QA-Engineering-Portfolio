@@ -1,5 +1,4 @@
 # QA-Engineering-Portfolio
-## Professional Software QA Testing Portfolio
 # Abdulfatai Yakubu | QA Engineering Portfolio
 
 Welcome to my Software Quality Assurance portfolio. This repository showcases my practical testing projects, technical skills, and continuous development as a QA professional.
@@ -34,7 +33,8 @@ I am an aspiring QA Engineer based in Nigeria, developing practical skills in ma
 
 A practical API testing exercise using Postman and a mock API.
 
-- "View Project on GitHub" (https://github.com/easylife4ft/Banking-App-API-QA)
+- "View Project on GitHub"
+- https://github.com/easylife4ft/Banking-App-API-QA
 - Tested API requests and responses.
 - Practised negative testing and response validation.
 - Documented observations and testing results.
@@ -74,7 +74,7 @@ I am committed to continuous learning and improving my software testing skills t
 
 # Contact
 
-- GitHub: "easylife4ft" (https://github.com/easylife4ft)
+- GitHub: [easylife4ft](https://github.com/easylife4ft)
 - Email: abdulfataiyakubu977@gmail.com
 - +2349039650719
 - Location: Nigeria
